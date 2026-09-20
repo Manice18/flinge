@@ -150,20 +150,22 @@ export default function BrainPanel({
           <span className="paint-side left">L</span>
           <span className="paint-side right">R</span>
           <BrainCloud actionKey={actionKey} intensity={intensity} />
-          <div className="cns-action paint-action" key={actionKey}>
-            <div className="cns-action-title">{copy.title}</div>
-            <div className="cns-action-sub">{copy.sub}</div>
-          </div>
-          <div className="paint-legend">
-            <span>
-              <i className="lg rest" /> Resting
-            </span>
-            <span>
-              <i className="lg stim" /> Stimulated
-            </span>
-            <span>
-              <i className="lg fire" /> Firing
-            </span>
+          <div className="paint-overlay">
+            <div className="cns-action paint-action" key={actionKey}>
+              <div className="cns-action-title">{copy.title}</div>
+              <div className="cns-action-sub">{copy.sub}</div>
+            </div>
+            <div className="paint-legend">
+              <span>
+                <i className="lg rest" /> Resting
+              </span>
+              <span>
+                <i className="lg stim" /> Stimulated
+              </span>
+              <span>
+                <i className="lg fire" /> Firing
+              </span>
+            </div>
           </div>
         </div>
 

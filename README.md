@@ -16,6 +16,7 @@ Train a fruit fly to hinge — a MaleCNS-inspired mushroom-body dopamine loop, a
 | [`flinge-ui/`](flinge-ui/) | React + Three.js UI (Discover / Matches / Chat + live brain HUD) |
 | [`Makefile`](Makefile) | Start / stop API + UI together |
 | [`runs/flinge/`](runs/flinge/) | Session state, gains, heartbreak curriculum |
+| [`try/fruitless/`](try/fruitless/) | Source fly meshes + brain point cloud (copied into `flinge-ui/public/`) |
 
 UI routes:
 
