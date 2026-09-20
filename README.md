@@ -5,13 +5,13 @@
 </p>
 
 <p align="center">
-  <a href="flinge.mp4">
+  <a href="https://drive.google.com/file/d/1mrS9ScarBsfe_jOycf5fk-UIIQJGmP0b/view?usp=sharing">
     <img src="flinge-demo.gif" alt="Flinge demo — fly simulator, dating UI, and paint-the-brain HUD" width="720" />
   </a>
 </p>
 
 <p align="center">
-  <a href="flinge.mp4"><strong>▶ Full demo (mp4)</strong></a>
+  <a href="https://drive.google.com/file/d/1mrS9ScarBsfe_jOycf5fk-UIIQJGmP0b/view?usp=sharing"><strong>▶ Full demo (mp4)</strong></a>
 </p>
 
 Train a fruit fly to hinge — a MaleCNS-inspired mushroom-body dopamine loop, a Hinge-style dating UI, and an optional heartbreak recovery curriculum.
@@ -25,7 +25,7 @@ Train a fruit fly to hinge — a MaleCNS-inspired mushroom-body dopamine loop, a
 | [`flinge/`](flinge/) | Python package: MB brain, dating loop, heartbreak engine, FastAPI |
 | [`flinge-ui/`](flinge-ui/) | React + Three.js UI (Discover / Matches / Chat + live brain HUD) |
 | [`Makefile`](Makefile) | Start / stop API + UI together |
-| [`flinge.png`](flinge.png) / [`flinge-demo.gif`](flinge-demo.gif) / [`flinge.mp4`](flinge.mp4) | Logo, preview GIF, full demo video |
+| [`flinge.png`](flinge.png) / [`flinge-demo.gif`](flinge-demo.gif) | Logo + preview GIF ([full demo on Drive](https://drive.google.com/file/d/1mrS9ScarBsfe_jOycf5fk-UIIQJGmP0b/view?usp=sharing)) |
 | [`runs/flinge/`](runs/flinge/) | Session state, gains, heartbreak curriculum |
 | [`try/fruitless/`](try/fruitless/) | Source fly meshes + brain point cloud (copied into `flinge-ui/public/`) |
 
