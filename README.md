@@ -4,6 +4,12 @@
   <img src="flinge.png" alt="Flinge — fruit fly with MB dopamine on a dating app" width="420" />
 </p>
 
+<p align="center">
+  <video src="flinge.mp4" poster="flinge.png" width="720" controls playsinline>
+    <a href="flinge.mp4">Watch the Flinge demo</a>
+  </video>
+</p>
+
 Train a fruit fly to hinge — a MaleCNS-inspired mushroom-body dopamine loop, a Hinge-style dating UI, and an optional heartbreak recovery curriculum.
 
 **Honesty:** Reward and aversive pulses are engineered (PAM-like / PPL1-like). The default circuit is a deterministic synthetic stand-in sized after MaleCNS MB populations — not the full released synapse graph. This is not clinical advice, and the fly does not understand dating.
@@ -15,6 +21,7 @@ Train a fruit fly to hinge — a MaleCNS-inspired mushroom-body dopamine loop, a
 | [`flinge/`](flinge/) | Python package: MB brain, dating loop, heartbreak engine, FastAPI |
 | [`flinge-ui/`](flinge-ui/) | React + Three.js UI (Discover / Matches / Chat + live brain HUD) |
 | [`Makefile`](Makefile) | Start / stop API + UI together |
+| [`flinge.png`](flinge.png) / [`flinge.mp4`](flinge.mp4) | Logo + working demo video |
 | [`runs/flinge/`](runs/flinge/) | Session state, gains, heartbreak curriculum |
 | [`try/fruitless/`](try/fruitless/) | Source fly meshes + brain point cloud (copied into `flinge-ui/public/`) |
 
