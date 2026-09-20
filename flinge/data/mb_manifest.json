@@ -1,0 +1,14 @@
+{
+  "kind": "synthetic_mb_stand_in",
+  "note": "Deterministic sparse circuit sized after MaleCNS MB populations. Not the released synapse graph. Swap in a real extract for science runs.",
+  "counts": {
+    "pn": 128,
+    "kc": 400,
+    "mbon": 48,
+    "dan": 96,
+    "pam": 80,
+    "ppl1": 16
+  },
+  "seed": 20260920,
+  "path": "/Users/manice18/Desktop/progfiles/fly-hinge/flinge/data/mb_circuit.npz"
+}

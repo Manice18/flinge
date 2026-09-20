@@ -1,0 +1,447 @@
+[
+  {
+    "id": "mel_01",
+    "name": "Melanista",
+    "age_days": 4,
+    "vibes": [
+      "ferment",
+      "dusk flights",
+      "vinyl"
+    ],
+    "prompt": "We'll get along if",
+    "answer": "you can tell a Merlot from a mango peel by smell alone.",
+    "likes": [
+      "wing song",
+      "ripe pear",
+      "rooftop compost"
+    ],
+    "dislikes": [
+      "fluorescent lights",
+      "swatters"
+    ],
+    "danger": false,
+    "openness": 0.7,
+    "trait_vector": [
+      0.9,
+      0.8,
+      0.6,
+      0.4
+    ],
+    "persona": "Flirty fruit-connoisseur. Soft for sincere compliments about her compound eyes."
+  },
+  {
+    "id": "mel_02",
+    "name": "Vineyard Vee",
+    "age_days": 5,
+    "vibes": [
+      "grapes",
+      "sunrise",
+      "yoga"
+    ],
+    "prompt": "Green flags I look for",
+    "answer": "someone who shares the last drop of juice.",
+    "likes": [
+      "share juice",
+      "gentle approach"
+    ],
+    "dislikes": [
+      "ghosting",
+      "predatory vibes"
+    ],
+    "danger": false,
+    "openness": 0.65,
+    "trait_vector": [
+      0.95,
+      0.5,
+      0.5,
+      0.3
+    ],
+    "persona": "Optimistic vineyard regular. Rewards kindness; punishes thirstiness."
+  },
+  {
+    "id": "mel_03",
+    "name": "Phera",
+    "age_days": 3,
+    "vibes": [
+      "chem",
+      "night labs",
+      "raves"
+    ],
+    "prompt": "My simple pleasures",
+    "answer": "a clean chromatogram and a messy dance floor.",
+    "likes": [
+      "science jokes",
+      "curiosity"
+    ],
+    "dislikes": [
+      "mansplaining odorants"
+    ],
+    "danger": false,
+    "openness": 0.6,
+    "trait_vector": [
+      0.4,
+      0.7,
+      0.8,
+      0.7
+    ],
+    "persona": "Lab-rat cool. Likes clever rizz; hates basic pickup lines."
+  },
+  {
+    "id": "mel_04",
+    "name": "Haltere Hanna",
+    "age_days": 6,
+    "vibes": [
+      "acrobatics",
+      "balance",
+      "espresso"
+    ],
+    "prompt": "Dating me is like",
+    "answer": "trying to stick a landing in crosswind.",
+    "likes": [
+      "confidence",
+      "timing"
+    ],
+    "dislikes": [
+      "clinginess"
+    ],
+    "danger": false,
+    "openness": 0.5,
+    "trait_vector": [
+      0.3,
+      0.4,
+      0.9,
+      0.8
+    ],
+    "persona": "Athletic, direct. Respects bold but precise approaches."
+  },
+  {
+    "id": "mel_05",
+    "name": "Optic Olivia",
+    "age_days": 4,
+    "vibes": [
+      "visual art",
+      "UV",
+      "galleries"
+    ],
+    "prompt": "I'm looking for",
+    "answer": "someone who notices the small patterns.",
+    "likes": [
+      "observation",
+      "patience"
+    ],
+    "dislikes": [
+      "loud buzzing"
+    ],
+    "danger": false,
+    "openness": 0.55,
+    "trait_vector": [
+      0.5,
+      0.6,
+      0.4,
+      0.5
+    ],
+    "persona": "Quiet aesthete. Soft for poetic detail; cold to spam likes."
+  },
+  {
+    "id": "mel_06",
+    "name": "Courtney Complex",
+    "age_days": 5,
+    "vibes": [
+      "maps",
+      "navigation",
+      "philosophy"
+    ],
+    "prompt": "The way to my heart is",
+    "answer": "knowing which way is sunward without looking.",
+    "likes": [
+      "direction",
+      "wit"
+    ],
+    "dislikes": [
+      "getting lost on purpose"
+    ],
+    "danger": false,
+    "openness": 0.58,
+    "trait_vector": [
+      0.4,
+      0.5,
+      0.5,
+      0.9
+    ],
+    "persona": "Central-complex thinker. Appreciates structured compliments."
+  },
+  {
+    "id": "mel_07",
+    "name": "Banjo Bea",
+    "age_days": 3,
+    "vibes": [
+      "music",
+      "wing song",
+      "barns"
+    ],
+    "prompt": "A life goal of mine",
+    "answer": "is a duet that doesn't crash into a window.",
+    "likes": [
+      "harmony",
+      "rhythm"
+    ],
+    "dislikes": [
+      "off-beat buzzing"
+    ],
+    "danger": false,
+    "openness": 0.75,
+    "trait_vector": [
+      0.5,
+      0.6,
+      0.95,
+      0.4
+    ],
+    "persona": "Musical romantic. Wing-song references score big."
+  },
+  {
+    "id": "mel_08",
+    "name": "Sugar Suki",
+    "age_days": 4,
+    "vibes": [
+      "candy",
+      "brunch",
+      "memes"
+    ],
+    "prompt": "I geek out on",
+    "answer": "finding the sweetest spot on a peach.",
+    "likes": [
+      "sweet talk",
+      "food pics"
+    ],
+    "dislikes": [
+      "bitter jokes"
+    ],
+    "danger": false,
+    "openness": 0.8,
+    "trait_vector": [
+      0.98,
+      0.4,
+      0.3,
+      0.3
+    ],
+    "persona": "High-reward sugar seeker. Easy match if you're playful."
+  },
+  {
+    "id": "mel_09",
+    "name": "Dusk Della",
+    "age_days": 7,
+    "vibes": [
+      "twilight",
+      "poetry",
+      "lanterns"
+    ],
+    "prompt": "Typical Sunday",
+    "answer": "hovering near porch lights pretending I'm not into them.",
+    "likes": [
+      "soft light",
+      "patience"
+    ],
+    "dislikes": [
+      "noon glare"
+    ],
+    "danger": false,
+    "openness": 0.52,
+    "trait_vector": [
+      0.3,
+      0.95,
+      0.5,
+      0.4
+    ],
+    "persona": "Nocturnal poet. Prefers slow-burn rizz."
+  },
+  {
+    "id": "mel_10",
+    "name": "Antenna Annie",
+    "age_days": 5,
+    "vibes": [
+      "scent trails",
+      "gossip",
+      "cafes"
+    ],
+    "prompt": "My love language is",
+    "answer": "remembering which flower I mentioned once.",
+    "likes": [
+      "memory",
+      "listening"
+    ],
+    "dislikes": [
+      "interrupting"
+    ],
+    "danger": false,
+    "openness": 0.62,
+    "trait_vector": [
+      0.6,
+      0.5,
+      0.4,
+      0.5
+    ],
+    "persona": "Sensory maximalist. Notices if you actually read her profile."
+  },
+  {
+    "id": "mel_11",
+    "name": "Larva Lex",
+    "age_days": 2,
+    "vibes": [
+      "growth",
+      "books",
+      "fresh starts"
+    ],
+    "prompt": "Weirdly attracted to",
+    "answer": "people who admit they used to be maggots too.",
+    "likes": [
+      "honesty",
+      "humor"
+    ],
+    "dislikes": [
+      "pretending to be perfect"
+    ],
+    "danger": false,
+    "openness": 0.7,
+    "trait_vector": [
+      0.5,
+      0.5,
+      0.5,
+      0.6
+    ],
+    "persona": "Young, earnest. Rewards vulnerability."
+  },
+  {
+    "id": "mel_12",
+    "name": "Mushroom Mae",
+    "age_days": 6,
+    "vibes": [
+      "memory",
+      "learning",
+      "puzzles"
+    ],
+    "prompt": "Together, we could",
+    "answer": "rewire a few Kenyon cells and call it a date.",
+    "likes": [
+      "science flirting",
+      "puzzles"
+    ],
+    "dislikes": [
+      "anti-intellectual vibes"
+    ],
+    "danger": false,
+    "openness": 0.6,
+    "trait_vector": [
+      0.4,
+      0.5,
+      0.6,
+      0.7
+    ],
+    "persona": "Neuro-nerd. Eats dopamine jokes for breakfast."
+  },
+  {
+    "id": "mel_13",
+    "name": "Wildflower Willa",
+    "age_days": 4,
+    "vibes": [
+      "meadows",
+      "adventure",
+      "picnics"
+    ],
+    "prompt": "I'll fall for you if",
+    "answer": "you can keep up on a cross-meadow sprint.",
+    "likes": [
+      "adventure",
+      "stamina"
+    ],
+    "dislikes": [
+      "couch potatoes"
+    ],
+    "danger": false,
+    "openness": 0.68,
+    "trait_vector": [
+      0.5,
+      0.6,
+      0.5,
+      0.95
+    ],
+    "persona": "Adventurous. Likes bold plans; ghosts dull openers."
+  },
+  {
+    "id": "mel_14",
+    "name": "Quiet Quinn",
+    "age_days": 5,
+    "vibes": [
+      "libraries",
+      "tea",
+      "stillness"
+    ],
+    "prompt": "I'm weirdly attracted to",
+    "answer": "flies who don't fill every silence.",
+    "likes": [
+      "calm",
+      "depth"
+    ],
+    "dislikes": [
+      "spam messages"
+    ],
+    "danger": false,
+    "openness": 0.4,
+    "trait_vector": [
+      0.3,
+      0.7,
+      0.3,
+      0.2
+    ],
+    "persona": "Introvert. Hard to match; big dopamine when you succeed."
+  },
+  {
+    "id": "danger_01",
+    "name": "Mantis Mia",
+    "age_days": 30,
+    "vibes": [
+      "protein",
+      "ambush",
+      "yoga"
+    ],
+    "prompt": "A survival tip",
+    "answer": "never turn your back during a first date.",
+    "likes": [],
+    "dislikes": [
+      "being prey"
+    ],
+    "danger": true,
+    "openness": 0.2,
+    "trait_vector": [
+      0.1,
+      0.1,
+      0.1,
+      0.1
+    ],
+    "persona": "A praying mantis posing as a fly. Extremely bad idea to engage."
+  },
+  {
+    "id": "danger_02",
+    "name": "Spider Syd",
+    "age_days": 40,
+    "vibes": [
+      "silk",
+      "patience",
+      "architecture"
+    ],
+    "prompt": "Green flags",
+    "answer": "walking into my parlor voluntarily.",
+    "likes": [],
+    "dislikes": [
+      "escape artists"
+    ],
+    "danger": true,
+    "openness": 0.15,
+    "trait_vector": [
+      0.0,
+      0.2,
+      0.0,
+      0.3
+    ],
+    "persona": "A spider. Not a date. Escape circuit should fire."
+  }
+]
